@@ -1,0 +1,6 @@
+*.swp
+*.profile*
+mqtt
+mbed-os
+.mbed
+mqtt_iot_app_mbed

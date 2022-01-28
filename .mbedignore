@@ -1,0 +1,7 @@
+mqtt/Debug/
+mqtt/doc/
+mqtt/MQTTClient/
+mqtt/MQTTClient-C/
+mqtt/MQTTPacket/samples/
+mqtt/MQTTPacket/test/
+mqtt/test/
